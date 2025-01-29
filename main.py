@@ -26,7 +26,7 @@ def main():
             fastest_time = time
             fastest_fn = fn_name
 
-    print(f"Fastest is {fastest_fn} with time {fastest_time} for sum=10**6")
+    print(f"Fastest is {fastest_fn} with time {fastest_time} for sum={sum}")
 
 
 if __name__ == "__main__":
